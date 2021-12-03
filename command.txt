@@ -1,0 +1,9 @@
+composer require php-console/php-console
+composer self-update
+composer update --no-scripts
+composer require monolog/monolog
+composer update
+composer require psr/log
+
+
+https://www.php-fig.org/psr/psr-3/
